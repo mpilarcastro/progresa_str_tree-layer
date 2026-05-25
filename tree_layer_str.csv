@@ -1,0 +1,503 @@
+veg_ty;plot;sp;ba_tree;Comments    ;health;d;h;C_content
+E0;E4;Eucalyptus globulus;0.0562001;Sano;3;26.75;18.4;0.475
+E0;E4;Eucalyptus globulus;0.008251582;Sano;3;10.25;9.3;0.475
+E0;E4;Arbutus unedo;0.0058088;Sano;3;8.6;5;0.475
+E0;E4;Arbutus unedo;0.0058088;Sano;3;8.6;4.8;0.475
+E0;E4;Eucalyptus globulus;0.055571586;Sano;3;26.6;18.4;0.475
+E0;E4;Eucalyptus globulus;0.011499005;Sano;3;12.1;11.5;0.475
+E0;E4;Eucalyptus globulus;0.005026544;Sano;3;8;8.3;0.475
+E0;E4;Eucalyptus globulus;0.016286003;Sano;3;14.4;12.5;0.475
+E0;E4;Eucalyptus globulus;0.02955922;Sano;3;19.4;17.5;0.475
+E0;E4;Eucalyptus globulus;0.026735127;Sano;3;18.45;15.2;0.475
+E0;E4;Eucalyptus globulus;0.012867953;Sano;3;12.8;10.8;0.475
+E0;E4;Eucalyptus globulus;0.005475988;Sano;3;8.35;7.7;0.475
+E0;E4;Eucalyptus globulus;0.023370484;Sano;3;17.25;11.6;0.475
+E0;E4;Eucalyptus globulus;0.037496644;Sano;3;21.85;15.3;0.475
+E0;E4;Eucalyptus globulus;0.022564667;Sano;3;16.95;13.4;0.475
+E0;E6;Eucalyptus globulus;0.022299202;Sano;3;16.85;19.6;0.475
+E0;E6;Eucalyptus globulus;0.01743661;Sano;3;14.9;16.4;0.475
+E0;E6;Eucalyptus globulus;0.029103886;Sano;3;19.25;18;0.475
+E0;E6;Eucalyptus globulus;0.006939772;Sano;3;9.4;13.9;0.475
+E0;E6;Eucalyptus globulus;0.027759089;Sano;3;18.8;15.5;0.475
+E0;E6;Eucalyptus globulus;0.020232036;Sano;3;16.05;16.4;0.475
+E0;E6;Eucalyptus globulus;0.012468971;Sano;3;12.6;14.7;0.475
+E0;E6;Eucalyptus globulus;0.007620123;Sano;3;9.85;15.2;0.475
+E0;E6;Eucalyptus globulus;0.034142996;Sano;3;20.85;15.3;0.475
+E0;E6;Eucalyptus globulus;0.018869175;Sano;3;15.5;15;0.475
+E0;E6;Eucalyptus globulus;0.021382447;Sano;3;16.5;;0.475
+E0;E6;Eucalyptus globulus;0.00615143;Sano;3;8.85;;0.475
+E0;E6;Eucalyptus globulus;0.011594234;Sano;3;12.15;;0.475
+E0;E6;Eucalyptus globulus;0.020106176;Sano;3;16;;0.475
+E0;E6;Eucalyptus globulus;0.005607934;Sano;3;8.45;12.7;0.475
+E0;E6;Eucalyptus globulus;0.006575544;Sano;3;9.15;11.9;0.475
+E0;E6;Eucalyptus globulus;0.027025724;Sano;3;18.55;18.7;0.475
+E0;E6;Eucalyptus globulus;0.012667676;Sano;3;12.7;17;0.475
+E0;E6;Eucalyptus globulus;0.022697988;Sano;3;17;18.4;0.475
+E0;E6;Eucalyptus globulus;0.013375516;Sano;3;13.05;15.9;0.475
+E0;E6;Eucalyptus globulus;0.010296758;Sano;3;11.45;12.2;0.475
+E0;E7;Eucalyptus globulus;0.014526712;Sano;3;13.6;17.3;0.475
+E0;E7;Eucalyptus globulus;0.023100308;Sano;3;17.15;20;0.475
+E0;E7;Eucalyptus globulus;0.015065691;Sano;3;13.85;16.8;0.475
+E0;E7;Eucalyptus globulus;0.005674497;Sano;3;8.5;13.5;0.475
+E0;E7;Eucalyptus globulus;0.011404168;Sano;3;12.05;14.5;0.475
+E0;E7;Eucalyptus globulus;0.007013796;Sano;3;9.45;15.1;0.475
+E0;E7;Eucalyptus globulus;0.015725425;Sano;3;14.15;17.9;0.475
+E0;E7;Eucalyptus globulus;0.005216807;Sano;3;8.15;11;0.475
+E0;E7;Eucalyptus globulus;0.018145824;Sano;3;15.2;19.7;0.475
+E0;E7;Eucalyptus globulus;0.007932711;Sano;3;10.05;12.1;0.475
+E0;E7;Eucalyptus globulus;0.010935875;Sano;3;11.8;15.8;0.475
+E0;E7;Eucalyptus globulus;0.014420094;Sano;3;13.55;;0.475
+E0;E7;Eucalyptus globulus;0.01778945;Sano;3;15.05;;0.475
+E0;E7;Eucalyptus globulus;0.020995442;Sano;3;16.35;;0.475
+E0;E7;Eucalyptus globulus;0.022299202;Sano;3;16.85;;0.475
+E0;E7;Eucalyptus globulus;0.004963909;Sano;3;7.95;;0.475
+E0;E9;Eucalyptus globulus;0.015065691;Sano;3;13.85;19.2;0.475
+E0;E9;Eucalyptus globulus;0.016627061;Sano;3;14.55;18.8;0.475
+E0;E9;Eucalyptus globulus;0.015284032;Sano;3;13.95;20.2;0.475
+E0;E9;Eucalyptus globulus;0.018265401;Sano;3;15.25;20;0.475
+E0;E9;Eucalyptus globulus;0.019113434;Sano;3;15.6;20.9;0.475
+E0;E9;Eucalyptus globulus;0.02474493;Sano;3;17.75;;0.475
+E0;E9;Eucalyptus globulus;0.015836755;Sano;3;14.2;;0.475
+E0;E9;Eucalyptus globulus;0.015503943;Sano;3;14.05;;0.475
+E0;E9;Eucalyptus globulus;0.022965808;Sano;3;17.1;;0.475
+E0;E9;Eucalyptus globulus;0.02940705;Sano;3;19.35;23;0.475
+E0;E9;Eucalyptus globulus;0.01755383;Sano;3;14.95;19.5;0.475
+E0;E9;Eucalyptus globulus;0.028203821;Sano;3;18.95;19.4;0.475
+E0;E9;Eucalyptus globulus;0.007775632;Sano;3;9.95;16.3;0.475
+E0;E9;Eucalyptus globulus;0.016399296;Sano;3;14.45;22.1;0.475
+E0;E9;Eucalyptus globulus;0.016971655;Sano;3;14.7;19;0.475
+E0;E9;Eucalyptus globulus;0.00950331;Sano;3;11;16.5;0.475
+E0;E9;Eucalyptus globulus;0.019113434;Sano;3;15.6;19.8;0.475
+E0;E9;Eucalyptus globulus;0.018869175;Sano;3;15.5;19.5;0.475
+E0;E9;Eucalyptus globulus;0.012867953;Sano;3;12.8;20.1;0.475
+E0;E9;Eucalyptus globulus;0.01296868;Sano;3;12.85;;0.475
+E0;E18;Eucalyptus globulus;0.064017947;sano;3;28.55;10.9;0.475
+E0;E18;Eucalyptus globulus;0.058964503;dañado;2;27.4;14.2;0.475
+E0;E18;Eucalyptus globulus;0.033816271;dañado;2;20.75;11.2;0.475
+E0;E18;Eucalyptus globulus;0.043373577;dañado;2;23.5;13.9;0.475
+E0;E18;Quercus suber;0.024328473;sano;3;17.6;7.9;0.472
+E0;E18;Eucalyptus globulus;0.061575164;sano;3;28;21.7;0.475
+E0;E18;Eucalyptus globulus;0.012271836;dañado;2;12.5;18;0.475
+E0;E18;Eucalyptus globulus;0.03715421;sano;3;21.75;16.5;0.475
+E0;E18;Eucalyptus globulus;0.045806149;sano;3;24.15;20.2;0.475
+E0;E18;Eucalyptus globulus;0.039937659;sano;3;22.55;16.6;0.475
+E0;E18;Eucalyptus globulus;0.06974644;sano;3;29.8;23.4;0.475
+E0;E18;Arbutus unedo;0.019855634;sano;3;15.9;8.3;0.475
+E0;E18;Eucalyptus globulus;0.02835285;sano;3;19;14.6;0.475
+E0;E16;Eucalyptus globulus;0.00907625;muy dañado;1;10.75;13.6;0.475
+E0;E16;Eucalyptus globulus;0.015503943;muy dañado;1;14.05;14.8;0.475
+E0;E16;Eucalyptus globulus;0.010659611;muy dañado;1;11.65;17.1;0.475
+E0;E16;Eucalyptus globulus;0.01296868;dañado;2;12.85;17;0.475
+E0;E16;Eucalyptus globulus;0.025872761;sano;3;18.15;16.1;0.475
+E0;E16;Eucalyptus globulus;0.028952893;muy dañado;1;19.2;16.6;0.475
+E0;E16;Eucalyptus globulus;0.024190439;sano;3;17.55;15.8;0.475
+E0;E16;Eucalyptus globulus;0.02986474;dañado;2;19.5;14.4;0.475
+E0;E16;Eucalyptus globulus;0.018265401;muy dañado;1;15.25;15.2;0.475
+E0;E16;Eucalyptus globulus;0.020611972;dañado;2;16.2;15.5;0.475
+E0;E16;Eucalyptus globulus;0.014313869;muy dañado;1;13.5;14.2;0.475
+E0;E16;Eucalyptus globulus;0.029103886;sano;3;19.25;15.2;0.475
+E0;E16;Eucalyptus globulus;0.016286003;sano;3;14.4;14.9;0.475
+E0;E16;Eucalyptus globulus;0.024884534;sano;3;17.8;17.2;0.475
+E0;E16;Eucalyptus globulus;0.035298905;sano;3;21.2;15.3;0.475
+E0;E16;Eucalyptus globulus;0.022564667;dañado;2;16.95;16.1;0.475
+E0;E16;Eucalyptus globulus;0.023642232;sano;3;17.35;16.1;0.475
+E0;E3;Eucalyptus globulus;0.006720057;dañado;2;9.25;6.8;0.475
+E0;E3;Arbutus unedo;0.004717294;sano;3;7.75;3.4;0.475
+E0;E3;Eucalyptus globulus;0.010028741;dañado;2;11.3;9.4;0.475
+E0;E3;Eucalyptus globulus;0.007853975;dañado;2;10;10.7;0.475
+E0;E3;Eucalyptus globulus;0.006792903;dañado;2;9.3;8.1;0.475
+E0;E3;Eucalyptus globulus;0.022831702;sano;3;17.05;12.1;0.475
+E0;E3;Eucalyptus globulus;0.012173858;muy dañado;1;12.45;12.5;0.475
+E0;E3;Eucalyptus globulus;0.011122014;muy dañado;1;11.9;11.3;0.475
+E0;E3;Eucalyptus globulus;0.016741533;dañado;2;14.6;13.5;0.475
+E0;E3;Eucalyptus globulus;0.030946429;dañado;2;19.85;13.8;0.475
+E0;E3;Eucalyptus globulus;0.015393791;dañado;2;14;13;0.475
+E0;E3;Eucalyptus globulus;0.024052798;dañado;2;17.5;13;0.475
+E0;E2;Eucalyptus globulus;0.006221134;dañado;2;8.9;9;0.475
+E0;E2;Eucalyptus globulus;0.013273218;dañado;2;13;10.7;0.475
+E0;E2;Eucalyptus globulus;0.011689856;dañado;2;12.2;10;0.475
+E0;E2;Eucalyptus globulus;0.015393791;dañado;2;14;11;0.475
+E0;E2;Eucalyptus globulus;0.013273218;dañado;2;13;12.6;0.475
+E0;E2;Eucalyptus globulus;0.01743661;muy dañado;1;14.9;13.3;0.475
+E0;E2;Eucalyptus globulus;0.012076272;dañado;2;12.4;12.4;0.475
+E0;E2;Eucalyptus globulus;0.031573176;dañado;2;20.05;13.1;0.475
+E0;E2;Eucalyptus globulus;0.060262765;dañado;2;27.7;14.3;0.475
+E0;E2;Eucalyptus globulus;0.007389805;dañado;2;9.7;14.3;0.475
+E0;E2;Eucalyptus globulus;0.035968064;dañado;2;21.4;14.3;0.475
+E0;E2;Eucalyptus globulus;0.005281013;dañado;2;8.2;6.4;0.475
+E0;E2;Eucalyptus globulus;0.031888906;dañado;2;20.15;11.6;0.475
+E0;E2;Eucalyptus globulus;0.01495711;muy dañado;1;13.8;9.5;0.475
+E0;E2;Eucalyptus globulus;0.005410603;dañado;2;8.3;7.7;0.475
+E0;E2;Eucalyptus globulus;0.015065691;dañado;2;13.85;12.4;0.475
+E0;E2;Eucalyptus globulus;0.03715421;muerto;0;21.75;12.4;0.475
+E0;E2;Eucalyptus globulus;0.026015507;dañado;2;18.2;12.5;0.475
+E0;E2;Eucalyptus globulus;0.004476962;dañado;2;7.55;5.8;0.475
+E0;E2;Eucalyptus globulus;0.043929049;dañado;2;23.65;13.3;0.475
+E0;E2;Eucalyptus globulus;0.010207026;muy dañado;1;11.4;7.1;0.475
+E10;M6;Eucalyptus globulus;0.007775632;Sano;3;9.95;9.2;0.475
+E10;M6;Eucalyptus globulus;0.02474493;Sano;3;17.75;13.7;0.475
+E10;M6;Eucalyptus globulus;0.033329128;Sano;3;20.6;17.8;0.475
+E10;M6;Eucalyptus globulus;0.061575164;Sano;3;28;18.1;0.475
+E10;M6;Eucalyptus globulus;0.030635411;Sano;3;19.75;14.3;0.475
+E10;M6;Eucalyptus globulus;0.044675177;Sano;3;23.85;9.5;0.475
+E10;M6;Eucalyptus globulus;0.037840648;Sano;3;21.95;10.8;0.475
+E10;M8;Eucalyptus globulus;0.076453734;Muerto;0;31.2;11.7;0.475
+E10;M8;Eucalyptus globulus;0.01358129;Sano;3;13.15;12.2;0.475
+E10;M8;Eucalyptus globulus;0.038186223;Muerto;0;22.05;4.4;0.475
+E10;M8;Eucalyptus globulus;0.008824726;Muy dañado;1;10.6;11.6;0.475
+E10;M8;Eucalyptus globulus;0.007389805;Muy dañado;1;9.7;10.4;0.475
+E10;M8;Eucalyptus globulus;0.0095899;Muerto;0;11.05;10;0.475
+E10;M8;Eucalyptus globulus;0.005345612;Sano;3;8.25;9.2;0.475
+E10;M8;Eucalyptus globulus;0.011594234;Muerto;0;12.15;8.2;0.475
+E10;M8;Eucalyptus globulus;0.011404168;Muerto;0;12.05;9.7;0.475
+E10;M8;Eucalyptus globulus;0.003685281;Sano;3;6.85;10.3;0.475
+E10;M8;Eucalyptus globulus;0.027025724;Sano;3;18.55;18;0.475
+E10;M8;Eucalyptus globulus;0.010568309;Sano;3;11.6;13.1;0.475
+E10;M8;Eucalyptus globulus;0.011309724;Sano;3;12;10.6;0.475
+E10;M8;Eucalyptus globulus;0.03300633;Muerto;0;20.5;15.9;0.475
+E10;M8;Eucalyptus globulus;0.005152993;Dañado;2;8.1;;0.475
+E10;M8;Eucalyptus globulus;0.005281013;Sano;3;8.2;8.1;0.475
+E10;M8;Eucalyptus globulus;0.027611631;Muy dañado;1;18.75;16.2;0.475
+E10;M8;Eucalyptus globulus;0.033167533;Sano;3;20.55;16;0.475
+E10;M8;Eucalyptus globulus;0.029103886;Muy dañado;1;19.25;15;0.475
+E10;M8;Eucalyptus globulus;0.004839816;Sano;3;7.85;4.4;0.475
+E10;M7;Eucalyptus globulus;0.042821639;Dañado;2;23.35;16.5;0.475
+E10;M7;Eucalyptus globulus;0.056832148;Dañado;2;26.9;19;0.475
+E10;M7;Eucalyptus globulus;0.008824726;Sano;3;10.6;5.1;0.475
+E10;M7;Eucalyptus globulus;0.007620123;Sano;3;9.85;9.7;0.475
+E10;M7;Eucalyptus globulus;0.0060132;Sano;3;8.75;9.1;0.475
+E10;M7;Eucalyptus globulus;0.008824726;Sano;3;10.6;5.5;0.475
+E10;M7;Eucalyptus globulus;0.004242914;Sano;3;7.35;11.1;0.475
+E10;M7;Eucalyptus globulus;0.011499005;Sano;3;12.1;8.7;0.475
+E10;M7;Eucalyptus globulus;0.02474493;Sano;3;17.75;12.3;0.475
+E10;M7;Eucalyptus globulus;0.031573176;Dañado;2;20.05;11.2;0.475
+E10;M7;Eucalyptus globulus;0.0232352;Sano;3;17.2;11;0.475
+E10;M5;Quercus suber;0.055571586;Sano;3;26.6;7.7;0.472
+E10;M5;Eucalyptus globulus;0.01743661;Muy dañado;1;14.9;12.1;0.475
+E10;M5;Eucalyptus globulus;0.065597185;Muerto;0;28.9;15.3;0.475
+E10;M5;Eucalyptus globulus;0.02955922;Sano;3;19.4;12.7;0.475
+E10;M5;Eucalyptus globulus;0.069046061;Sano;3;29.65;13.9;0.475
+E10;M5;Eucalyptus globulus;0.038533368;Sano;3;22.15;13.9;0.475
+E10;M5;Eucalyptus globulus;0.011404168;Dañado;2;12.05;;0.475
+E10;M5;Eucalyptus globulus;0.005741452;Sano;3;8.55;8;0.475
+E10;M5;Eucalyptus globulus;0.027171612;Sano;3;18.6;12.7;0.475
+E10;M5;Eucalyptus globulus;0.01296868;Muerto;0;12.85;;0.475
+E10;M5;Eucalyptus globulus;0.012468971;Sano;3;12.6;12.5;0.475
+E10;M5;Eucalyptus globulus;0.01495711;Sano;3;13.8;;0.475
+E10;M5;Eucalyptus globulus;0.043743499;Sano;3;23.6;14;0.475
+E10;M5;Eucalyptus globulus;0.022431738;Sano;3;16.9;11;0.475
+E10;M5;Eucalyptus globulus;0.019606663;Sano;3;15.8;;0.475
+E10;M5;Eucalyptus globulus;0.004596343;Muy dañado;1;7.65;8.4;0.475
+E10;M5;Eucalyptus globulus;0.006866141;Sano;3;9.35;8.8;0.475
+E10;M5;Eucalyptus globulus;0.008659007;Sano;3;10.5;5.7;0.475
+E10;M1;Eucalyptus globulus;0.006647604;sano;3;9.2;7.7;0.475
+E10;M1;Eucalyptus globulus;0.007853975;dañado;2;10;9.3;0.475
+E10;M1;Eucalyptus globulus;0.005152993;sano;3;8.1;7.8;0.475
+E10;M1;Eucalyptus globulus;0.005026544;dañado;2;8;8.5;0.475
+E10;M1;Eucalyptus globulus;0.009331308;dañado;2;10.9;9.5;0.475
+E10;M1;Eucalyptus globulus;0.005281013;dañado;2;8.2;9.6;0.475
+E10;M1;Eucalyptus globulus;0.005152993;sano;3;8.1;8;0.475
+E10;M1;Eucalyptus globulus;0.006939772;sano;3;9.4;10;0.475
+E10;M1;Eucalyptus globulus;0.007389805;sano;3;9.7;10;0.475
+E10;M1;Eucalyptus globulus;0.011689856;;;12.2;9.7;0.475
+E10;M16;Eucalyptus globulus;0.010028741;sano;3;11.3;4.3;0.475
+E10;M16;Arbutus unedo;0.014848921;sano;3;13.75;6;0.475
+E10;M16;Arbutus unedo;0.006221134;sano;3;8.9;6;0.475
+E10;M16;Arbutus unedo;0.005152993;sano;3;8.1;6;0.475
+E10;M16;Arbutus unedo;0.011215673;sano;3;11.95;6;0.475
+E10;M16;Arbutus unedo;0.014313869;sano;3;13.5;6;0.475
+E10;M16;Arbutus unedo;0.005345612;dañado;2;8.25;4.4;0.475
+E10;M16;Arbutus unedo;0.003525649;dañado;2;6.7;3.2;0.475
+E10;M16;Eucalyptus globulus;0.00636172;dañado;2;9;4.1;0.475
+E10;M16;Eucalyptus globulus;0.008413374;dañado;2;10.35;6;0.475
+E10;M16;Eucalyptus globulus;0.045616672;dañado;2;24.1;8.9;0.475
+E10;M16;Eucalyptus globulus;0.033653497;dañado;2;20.7;8.7;0.475
+E10;M16;Eucalyptus globulus;0.045427588;dañado;2;24.05;8.7;0.475
+E10;M16;Eucalyptus globulus;0.053707248;dañado;2;26.15;8.5;0.475
+E10;M16;Eucalyptus globulus;0.030325965;dañado;2;19.65;8.5;0.475
+E10;M16;Eucalyptus globulus;0.014526712;dañado;2;13.6;5.7;0.475
+E10;M16;Eucalyptus globulus;0.029103886;muy dañado;1;19.25;8.3;0.475
+E10;M16;Eucalyptus globulus;0.045616672;dañado;2;24.1;7.7;0.475
+E10;M16;Eucalyptus globulus;0.026880229;muerto;0;18.5;6.3;0.475
+E10;M16;Eucalyptus globulus;0.010477399;muerto;0;11.55;5.3;0.475
+E10;M16;Eucalyptus globulus;0.005674497;muerto;0;8.5;;0.475
+E10;M16;Arbutus unedo;0.005152993;sano;3;8.1;2.7;0.475
+E10;M16;Erica arborea;0.004417861;dañado;2;7.5;2.7;0.5
+E10;M16;Eucalyptus globulus;0.020484934;muerto;0;16.15;6;0.475
+E10;M16;Eucalyptus globulus;0.007853975;muerto;0;10;6;0.475
+E10;M16;Eucalyptus globulus;0.011309724;muerto;0;12;6.4;0.475
+E10;M16;Eucalyptus globulus;0.026880229;muy dañado;1;18.5;7.7;0.475
+E10;M16;Eucalyptus globulus;0.026158645;muerto;0;18.25;7.7;0.475
+E10;M16;Eucalyptus globulus;0.010386882;dañado;2;11.5;4.4;0.475
+E10;M16;Arbutus unedo;0.008171276;sano;3;10.2;3.4;0.475
+E10;M16;Arbutus unedo;0.005345612;sano;3;8.25;3.4;0.475
+E10;M16;Arbutus unedo;0.005281013;sano;3;8.2;3.4;0.475
+E10;M9;Pinus pinea;0.0058088;sano;3;8.6;5.5;0.508
+E10;M9;Pinus pinea;0.010028741;sano;3;11.3;7.2;0.508
+E10;M9;Eucalyptus globulus;0.018869175;muy dañado;1;15.5;7.7;0.475
+E10;M9;Eucalyptus globulus;0.008494859;muerto;0;10.4;5.5;0.475
+E10;M9;Eucalyptus globulus;0.012271836;muerto;0;12.5;5.9;0.475
+E10;M9;Eucalyptus globulus;0.012468971;muy dañado;1;12.6;7;0.475
+E10;M9;Eucalyptus globulus;0.025730407;muy dañado;1;18.1;8.7;0.475
+E10;M9;Eucalyptus globulus;0.007853975;muy dañado;1;10;6.7;0.475
+E10;M9;Eucalyptus globulus;0.027171612;dañado;2;18.6;12;0.475
+E10;M9;Eucalyptus globulus;0.024052798;dañado;2;17.5;9.6;0.475
+E10;M9;Eucalyptus globulus;0.008494859;muy dañado;1;10.4;6.8;0.475
+E10;M9;Eucalyptus globulus;0.005674497;muerto;0;8.5;4.1;0.475
+E10;M9;Eucalyptus globulus;0.007238223;muy dañado;1;9.6;6.5;0.475
+E10;M9;Eucalyptus globulus;0.015948478;muerto;0;14.25;8.1;0.475
+E10;M17;Eucalyptus globulus;0.021382447;muy dañado;1;16.5;13.1;0.475
+E10;M17;Eucalyptus globulus;0.007466185;dañado;2;9.75;13.1;0.475
+E10;M17;Eucalyptus globulus;0.008576737;muy dañado;1;10.45;13.1;0.475
+E10;M17;Eucalyptus globulus;0.016060593;dañado;2;14.3;13.7;0.475
+E10;M17;Eucalyptus globulus;0.0232352;dañado;2;17.2;13.7;0.475
+E10;M17;Eucalyptus globulus;0.014313869;muy dañado;1;13.5;9.7;0.475
+E10;M17;Eucalyptus globulus;0.013273218;muy dañado;1;13;9.7;0.475
+E10;M17;Quercus suber;0.030635411;sano;3;19.75;4.9;0.472
+E27;A18;Eucalyptus globulus;0.013788635;muy dañado;1;13.25;10.3;0.475
+E27;A18;Quercus suber;0.038186223;sano;3;22.05;10.8;0.472
+E27;A18;Eucalyptus globulus;0.011309724;dañado;2;12;9;0.475
+E27;A18;Eucalyptus globulus;0.030018089;muy dañado;1;19.55;9;0.475
+E27;A18;Eucalyptus globulus;0.065597185;muy dañado;1;28.9;12.6;0.475
+E27;A18;Eucalyptus globulus;0.005152993;dañado;2;8.1;9.3;0.475
+E27;A18;Eucalyptus globulus;0.058320673;dañado;2;27.25;13;0.475
+E27;A18;Eucalyptus globulus;0.024052798;dañado;2;17.5;9.9;0.475
+E27;A18;Quercus suber;0.024466899;sano;3;17.65;3.1;0.472
+E27;A18;Eucalyptus globulus;0.040114963;dañado;2;22.6;9.9;0.475
+E27;A18;Eucalyptus globulus;0.034966682;muy dañado;1;21.1;6.1;0.475
+E27;A18;Eucalyptus globulus;0.008992016;dañado;2;10.7;6.8;0.475
+E27;A18;Eucalyptus globulus;0.008741671;dañado;2;10.55;5.9;0.475
+E27;A18;Eucalyptus globulus;0.020739403;dañado;2;16.25;13.4;0.475
+E27;A18;Eucalyptus globulus;0.027611631;dañado;2;18.75;14;0.475
+E27;A18;Eucalyptus globulus;0.031573176;muy dañado;1;20.05;15;0.475
+E27;A18;Eucalyptus globulus;0.008824726;muerto;0;10.6;11;0.475
+E27;A18;Pinus pinea;0.008091361;sano;3;10.15;10.1;0.508
+E27;A18;Quercus suber;0.005152993;sano;3;8.1;5.4;0.472
+E27;A18;Quercus suber;0.022831702;sano;3;17.05;5;0.472
+E27;A19;Quercus suber;0.059395686;sano;3;27.5;7;0.472
+E27;A19;Eucalyptus globulus;0.04869543;dañado;2;24.9;13.1;0.475
+E27;A19;Eucalyptus globulus;0.159042994;dañado;2;45;18.5;0.475
+E27;A19;Eucalyptus globulus;0.029103886;dañado;2;19.25;11.5;0.475
+E27;A19;Eucalyptus globulus;0.016399296;dañado;2;14.45;9.3;0.475
+E27;A19;Arbutus unedo;0.005026544;sano;3;8;3.9;0.475
+E27;A19;Arbutus unedo;0.00587654;sano;3;8.65;4.4;0.475
+E27;A19;Eucalyptus globulus;0.010843394;muy dañado;1;11.75;14.8;0.475
+E27;A19;Eucalyptus globulus;0.03204736;dañado;2;20.2;7.7;0.475
+E27;A19;Quercus suber;0.022831702;sano;3;17.05;4.3;0.472
+E27;A19;Eucalyptus globulus;0.009852026;muy dañado;1;11.2;20.8;0.475
+E27;A19;Eucalyptus globulus;0.008659007;muerto;0;10.5;;0.475
+E27;A19;Quercus ilex;0.03870753;muerto;0;22.2;3.6;0.475
+E27;A20;Eucalyptus globulus;0.070685775;muy dañado;1;30;10.7;0.475
+E27;A20;Eucalyptus globulus;0.115209174;dañado;2;38.3;15.1;0.475
+E27;A20;Quercus suber;0.019236152;sano;3;15.65;4;0.472
+E27;A20;Quercus suber;0.037668449;sano;3;21.9;6;0.472
+E27;A20;Quercus suber;0.0314159;sano;3;20;5.1;0.472
+E27;A20;Arbutus unedo;0.010207026;sano;3;11.4;5;0.475
+E27;A23;Eucalyptus globulus;0.004656622;muy dañado;1;7.7;12.1;0.475
+E27;A23;Eucalyptus globulus;0.007238223;muy dañado;1;9.6;15.5;0.475
+E27;A23;Quercus suber;0.016627061;sano;3;14.55;7.4;0.472
+E27;A23;Quercus suber;0.0314159;sano;3;20;6.6;0.472
+E27;A23;Eucalyptus globulus;0.011499005;muerto;0;12.1;1.7;0.475
+E27;A23;Eucalyptus globulus;0.006503877;muy dañado;1;9.1;8.2;0.475
+E27;A23;Eucalyptus globulus;0.005944674;muy dañado;1;8.7;5.9;0.475
+E27;A23;Quercus suber;0.019113434;sano;3;15.6;5.1;0.472
+E27;A23;Eucalyptus globulus;0.021642414;muerto;0;16.6;9.1;0.475
+E27;A23;Eucalyptus globulus;0.006939772;muerto;0;9.4;7.3;0.475
+E27;A23;Eucalyptus globulus;0.010751306;muerto;0;11.7;8;0.475
+E27;A23;Quercus suber;0.014526712;sano;3;13.6;6.7;0.472
+E27;A23;Eucalyptus globulus;0.097590548;muy dañado;1;35.25;22.7;0.475
+E27;A23;Eucalyptus globulus;0.006503877;sano;3;9.1;11.5;0.475
+E27;A23;Eucalyptus globulus;0.043743499;dañado;2;23.6;18.5;0.475
+E27;A23;Eucalyptus globulus;0.009676883;dañado;2;11.1;12.3;0.475
+E27;A23;Erica arborea;0.005152993;sano;3;8.1;5.4;0.5
+E27;A23;Eucalyptus globulus;0.028203821;muerto;0;18.95;17.6;0.475
+E27;A23;Eucalyptus globulus;0.005674497;muerto;0;8.5;7.1;0.475
+E27;A23;Arbutus unedo;0.006720057;sano;3;9.25;4.7;0.475
+E27;A23;Eucalyptus globulus;0.007853975;muerto;0;10;5.3;0.475
+E27;A23;Quercus suber;0.018505732;dañado;2;15.35;7.5;0.472
+E27;A23;Phyllirea latifolia;0.007088212;sano;3;9.5;5;0.475
+E27;A23;Quercus suber;0.018991108;dañado;2;15.55;8.9;0.472
+E27;A23;Eucalyptus globulus;0.006866141;muy dañado;1;9.35;14.9;0.475
+E27;A23;Arbutus unedo;0.003848448;sano;3;7;4.7;0.475
+E27;A23;Eucalyptus globulus;0.027464565;muy dañado;1;18.7;;0.475
+E27;A23;Eucalyptus globulus;0.11945896;dañado;2;39;28.2;0.475
+E27;A3;Erica arborea;0.004476962;Sano;3;7.55;5.8;0.5
+E27;A3;Erica arborea;0.004536456;Sano;3;7.6;;0.5
+E27;A3;Arbutus unedo;0.004242914;Sano;3;7.35;5.8;0.475
+E27;A3;Eucalyptus globulus;0.012667676;Muerto;0;12.7;16.9;0.475
+E27;A3;Eucalyptus globulus;0.043929049;Muerto;0;23.65;25.4;0.475
+E27;A3;Eucalyptus globulus;0.04869543;Muerto;0;24.9;20.6;0.475
+E27;A3;Eucalyptus globulus;0.07967249;Muerto;0;31.85;16.3;0.475
+E27;A3;Arbutus unedo;0.004839816;Sano;3;7.85;;0.475
+E27;A3;Quercus ilex;0.031730844;Sano;3;20.1;11.2;0.475
+E27;A3;Arbutus unedo;0.007238223;Sano;3;9.6;5.2;0.475
+E27;A3;Arbutus unedo;0.007775632;Sano;3;9.95;4.7;0.475
+E27;A3;Arbutus unedo;0.005026544;Sano;3;8;;0.475
+E27;A3;Eucalyptus globulus;0.018991108;Muy dañado;1;15.55;16.8;0.475
+E27;A3;Eucalyptus globulus;0.009331308;Muy dañado;1;10.9;10;0.475
+E27;A3;Eucalyptus globulus;0.011785871;Muy dañado;1;12.25;13.6;0.475
+E27;A3;Eucalyptus globulus;0.007389805;Muy dañado;1;9.7;11.8;0.475
+E27;A3;Eucalyptus globulus;0.0232352;Muy dañado;1;17.2;14.6;0.475
+E27;A3;Eucalyptus globulus;0.047336104;Muy dañado;1;24.55;13.3;0.475
+E27;A3;Eucalyptus globulus;0.016741533;Sano;3;14.6;13.4;0.475
+E27;A3;Eucalyptus globulus;0.05432516;Muerto;0;26.3;14.6;0.475
+E27;A3;Eucalyptus globulus;0.029103886;Muerto;0;19.25;;0.475
+E27;A3;Eucalyptus globulus;0.02391555;Muy dañado;1;17.45;13.2;0.475
+E27;A3;Eucalyptus globulus;0.012867953;Muerto;0;12.8;17.4;0.475
+E27;A3;Eucalyptus globulus;0.019855634;Muy dañado;1;15.9;18.2;0.475
+E27;A3;Eucalyptus globulus;0.02474493;Sano;3;17.75;18.7;0.475
+E27;A3;Eucalyptus globulus;0.02474493;Dañado;2;17.75;20.2;0.475
+E27;A3;Eucalyptus globulus;0.070215322;Muy dañado;1;29.9;27.7;0.475
+E27;A3;Eucalyptus globulus;0.011499005;Muy dañado;1;12.1;14.7;0.475
+E27;A3;Eucalyptus globulus;0.00801184;Muerto;0;10.1;;0.475
+E27;A3;Eucalyptus globulus;0.014526712;Muy dañado;1;13.6;17.9;0.475
+E27;A3;Eucalyptus globulus;0.011979079;Sano;3;12.35;15.3;0.475
+E27;A3;Arbutus unedo;0.005345612;Sano;3;8.25;7;0.475
+E27;A4;Eucalyptus globulus;0.018265401;Muerto;0;15.25;20.6;0.475
+E27;A4;Eucalyptus globulus;0.0095899;Muerto;0;11.05;16.3;0.475
+E27;A4;Eucalyptus globulus;0.025164921;Muerto;0;17.9;17.6;0.475
+E27;A4;Eucalyptus globulus;0.045050597;Muerto;0;23.95;17.3;0.475
+E27;A4;Eucalyptus globulus;0.011309724;Muerto;0;12;13.1;0.475
+E27;A4;Eucalyptus globulus;0.021642414;Muerto;0;16.6;11.5;0.475
+E27;A4;Eucalyptus globulus;0.034471293;Muerto;0;20.95;15.7;0.475
+E27;A4;Eucalyptus globulus;0.024466899;Sano;3;17.65;17.4;0.475
+E27;A4;Eucalyptus globulus;0.020995442;Muerto;0;16.35;13;0.475
+E27;A4;Eucalyptus globulus;0.016060593;Dañado;2;14.3;9.7;0.475
+E27;A4;Eucalyptus globulus;0.016399296;Sano;3;14.45;;0.475
+E27;A4;Eucalyptus globulus;0.007389805;Muy dañado;1;9.7;12.4;0.475
+E27;A4;Eucalyptus globulus;0.029255271;Muy dañado;1;19.3;17.5;0.475
+E27;A4;Eucalyptus globulus;0.019730952;Muy dañado;1;15.85;15.5;0.475
+E27;A4;Eucalyptus globulus;0.00615143;Sano;3;8.85;12.2;0.475
+E27;A4;Eucalyptus globulus;0.015836755;Muerto;0;14.2;7.2;0.475
+E27;A4;Eucalyptus globulus;0.030946429;Muerto;0;19.85;;0.475
+E27;A4;Eucalyptus globulus;0.020484934;Muerto;0;16.15;13.8;0.475
+E27;A4;Eucalyptus globulus;0.025588447;Muerto;0;18.05;12.8;0.475
+E27;A4;Eucalyptus globulus;0.007853975;Muerto;0;10;10.5;0.475
+E27;A4;Eucalyptus globulus;0.025730407;Muerto;0;18.1;24.5;0.475
+E27;A4;Eucalyptus globulus;0.031888906;Muerto;0;20.15;;0.475
+E27;A4;Eucalyptus globulus;0.0587495;Sano;3;27.35;;0.475
+E27;A4;Eucalyptus globulus;0.021124051;Muy dañado;1;16.4;;0.475
+E27;A4;Eucalyptus globulus;0.06605193;Sano;3;29;22.6;0.475
+E27;A4;Eucalyptus globulus;0.009331308;Muy dañado;1;10.9;15.5;0.475
+E27;A4;Eucalyptus globulus;0.006939772;Muerto;0;9.4;14.4;0.475
+E27;A4;Eucalyptus globulus;0.021772986;Muerto;0;16.65;22.5;0.475
+E27;A4;Eucalyptus globulus;0.005345612;Muerto;0;8.25;12;0.475
+E27;A4;Eucalyptus globulus;0.01802664;Muerto;0;15.15;;0.475
+E27;A4;Eucalyptus globulus;0.004778358;Muy dañado;1;7.8;18.3;0.475
+E27;A4;Eucalyptus globulus;0.0058088;Muy dañado;1;8.6;10.5;0.475
+E27;A4;Eucalyptus globulus;0.007013796;Sano;3;9.45;7.9;0.475
+E27;A4;Eucalyptus globulus;0.010117687;Sano;3;11.35;;0.475
+E27;A6;Eucalyptus globulus;0.008992016;Sano;3;10.7;10.2;0.475
+E27;A6;Eucalyptus globulus;0.008494859;Sano;3;10.65;13.5;0.475
+E27;A6;Eucalyptus globulus;0.008494859;Daño;2;10.4;11.6;0.475
+E27;A6;Eucalyptus globulus;0.008251582;Muy dañado;1;10.25;15.3;0.475
+E27;A6;Eucalyptus globulus;0.023100308;Muy dañado;1;17.15;16.5;0.475
+E27;A6;Eucalyptus globulus;0.005607934;Sano;3;8.45;8.5;0.475
+E27;A6;Eucalyptus globulus;0.011404168;Sano;3;12.05;15.9;0.475
+E27;A6;Quercus faginea x canariensis;0.005152993;Sano;3;8.1;8.2;0.483
+E27;A6;Eucalyptus globulus;0.004596343;Sano;3;7.65;17.8;0.475
+E27;A6;Eucalyptus globulus;0.026158645;Muerto;0;18.25;16;0.475
+E27;A6;Eucalyptus globulus;0.013478206;Sano;3;13.1;22.6;0.475
+E27;A6;Eucalyptus globulus;0.005475988;Dañado;2;8.35;16;0.475
+E27;A6;Eucalyptus globulus;0.014848921;Dañado;2;13.75;21.4;0.475
+E27;A6;Eucalyptus globulus;0.039408105;Dañado;2;22.4;16.9;0.475
+E27;A6;Eucalyptus globulus;0.00801184;Muy dañado;1;10.1;;0.475
+E27;A6;Quercus faginea x canariensis;0.011979079;Sano;3;12.35;6.3;0.483
+E27;A6;Quercus faginea x canariensis;0.019113434;Sano;3;15.6;8.4;0.483
+E27;A6;Quercus faginea x canariensis;0.012370207;Sano;3;12.55;;0.483
+E27;A6;Eucalyptus globulus;0.020867226;Sano;3;16.3;19.5;0.475
+E27;A6;Eucalyptus globulus;0.03300633;Muerto;0;20.5;16.7;0.475
+E27;A6;Eucalyptus globulus;0.033491117;Sano;3;20.65;13.3;0.475
+E27;A6;Eucalyptus globulus;0.02790694;Sano;3;18.85;13.6;0.475
+E27;A6;Eucalyptus globulus;0.035968064;Muy dañado;1;21.4;16.6;0.475
+E27;A6;Eucalyptus globulus;0.014741126;Sano;3;13.7;16.1;0.475
+E27;A6;Eucalyptus globulus;0.037496644;Dañado;2;21.85;22.9;0.475
+E27;A6;Eucalyptus globulus;0.007238223;Sano;3;9.6;9.5;0.475
+E27;A6;Eucalyptus globulus;0.016060593;Sano;3;14.3;9.1;0.475
+E27;A6;Eucalyptus globulus;0.006720057;Sano;3;9.25;12.6;0.475
+E27;A6;Eucalyptus globulus;0.024328473;Sano;3;17.6;18;0.475
+E27;A6;PInus pinea;0.010386882;Muerto;0;11.5;2.5;0.508
+E27;A7;Eucalyptus globulus;0.045050597;Muerto;0;23.95;18.7;0.475
+E27;A7;Eucalyptus globulus;0.015614488;Sano;3;14.1;8.3;0.475
+E27;A7;Eucalyptus globulus;0.0130698;Muerto;0;12.9;1.3;0.475
+E27;A7;Eucalyptus globulus;0.036304999;Muerto;0;21.5;2;0.475
+E27;A7;Eucalyptus globulus;0.005741452;Muerto;0;8.55;17.2;0.475
+E27;A7;Eucalyptus globulus;0.020611972;Muerto;0;16.2;13.4;0.475
+E27;A7;Eucalyptus globulus;0.00636172;Muerto;0;9;14.5;0.475
+E27;A7;Eucalyptus globulus;0.027171612;Muerto;0;18.6;;0.475
+E27;A7;Eucalyptus globulus;0.028952893;Dañado;2;19.2;;0.475
+E27;A7;Eucalyptus globulus;0.006575544;Muy dañado;1;9.15;16.1;0.475
+E27;A7;Eucalyptus globulus;0.043929049;Muerto;0;23.65;;0.475
+E27;A7;Eucalyptus globulus;0.015614488;Muerto;0;14.1;;0.475
+E27;A7;Quercus ilex;0.007697681;Sano;3;9.9;5.7;0.475
+E27;A7;Eucalyptus globulus;0.013478206;Muerto;0;13.1;16.7;0.475
+E27;A7;Eucalyptus globulus;0.054739064;Muy dañado;1;26.4;;0.475
+E27;A7;Arbutus unedo;0.004476962;Sano;3;7.55;5.2;0.475
+E27;A7;Quercus ilex;0.004839816;Sano;3;7.85;;0.475
+E27;A7;Eucalyptus globulus;0.004417861;Muerto;0;7.5;9.5;0.475
+E27;A7;Eucalyptus globulus;0.054531916;Muerto;0;26.35;;0.475
+E27;A7;Eucalyptus globulus;0.044301328;Muerto;0;23.75;;0.475
+E27;A7;Eucalyptus globulus;0.03017183;Muerto;0;19.6;22.4;0.475
+E27;A7;Eucalyptus globulus;0.031102526;Muerto;0;19.9;19.1;0.475
+E27;A7;Quercus faginea x canariensis;0.021382447;Sano;3;16.5;5.6;0.483
+E27;A7;Quercus ilex;0.008824726;Sano;3;10.6;4.3;0.475
+E27;A7;Quercus suber;0.033491117;Sano;3;20.65;10.2;0.472
+E27;A7;Quercus ilex;0.005152993;Sano;3;8.1;5.3;0.475
+E27;A7;Quercus ilex;0.005089572;Sano;3;8.05;;0.475
+Q;Q10;Quercus suber;0.026735127;Muy dañado;1;18.45;7.1;0.472
+Q;Q10;Quercus suber;0.042821639;Dañado;2;23.35;7.7;0.472
+Q;Q10;Quercus suber;0.036136335;Muy dañado;1;21.45;6.8;0.472
+Q;Q10;Quercus suber;0.059179898;Sano;3;27.45;6.6;0.472
+Q;Q10;Quercus suber;0.004596343;Muy dañado;1;7.65;4.1;0.472
+Q;Q10;Quercus suber;0.041728366;Sano;3;23.05;5.6;0.472
+Q;Q10;Quercus suber;0.045616672;Dañado;2;24.1;6;0.472
+Q;Q26;Quercus suber;0.014526712;sano;3;13.6;5.9;0.472
+Q;Q26;Quercus suber;0.025872761;sano;3;18.15;7.8;0.472
+Q;Q26;Quercus suber;0.02835285;sano;3;19;6.3;0.472
+Q;Q26;Quercus suber;0.017087304;sano;3;14.75;6.1;0.472
+Q;Q26;Quercus suber;0.01296868;sano;3;12.85;7;0.472
+Q;Q26;Quercus suber;0.033167533;sano;3;20.55;7.6;0.472
+Q;Q26;Quercus suber;0.010659611;sano;3;11.65;5.3;0.472
+Q;Q26;Quercus suber;0.014741126;sano;3;13.7;5.5;0.472
+Q;Q26;Quercus suber;0.006647604;sano;3;9.2;5;0.472
+Q;Q26;Quercus suber;0.007238223;sano;3;9.6;4.6;0.472
+Q;Q31;Quercus suber;0.087878323;sano;3;33.45;10.7;0.472
+Q;Q31;Quercus suber;0.092670818;sano;3;34.35;11.4;0.472
+Q;Q31;Quercus suber;0.095388294;sano;3;34.85;10.2;0.472
+Q;Q31;Quercus suber;0.045806149;sano;3;24.15;8.3;0.472
+Q;Q31;Quercus suber;0.105784404;sano;3;36.7;11.4;0.472
+Q;Q33;Quercus suber;0.069279128;sano;3;29.7;7.6;0.472
+Q;Q33;Quercus suber;0.133316513;muerto;0;41.2;7;0.472
+Q;Q33;Quercus suber;0.053297271;sano;3;26.05;5.3;0.472
+Q;Q33;Quercus suber;0.087615804;dañado;2;33.4;7;0.472
+Q;Q33;Quercus suber;0.015174665;sano;3;13.9;6.5;0.472
+Q;Q33;Quercus suber;0.127555623;sano;3;40.3;7.4;0.472
+Q;Q33;Quercus suber;0.05047141;sano;3;25.35;5;0.472
+Q;Q33;Quercus suber;0.085529788;sano;3;33;6.3;0.472
+Q;Q21;Quercus suber;0.174233367;sano;3;47.1;10.3;0.472
+Q;Q21;Quercus suber;0.01358129;sano;3;13.15;8.4;0.472
+Q;Q21;Quercus suber;0.063347021;sano;3;28.4;8.6;0.472
+Q;Q21;Quercus suber;0.033329128;sano;3;20.6;6.4;0.472
+Q;Q21;Quercus suber;0.031259017;sano;3;19.95;5.2;0.472
+Q;Q21;Quercus suber;0.015503943;sano;3;14.05;3.4;0.472
+Q;Q21;Quercus suber;0.066279891;dañado;2;29.05;5.1;0.472
+Q;Q21;Quercus suber;0.046186282;dañado;2;24.25;4.6;0.472
+Q;Q21;Quercus suber;0.045806149;dañado;2;24.15;3.3;0.472
+Q;Q28;Quercus suber;0.053297271;sano;3;26.05;7.3;0.472
+Q;Q28;Quercus suber;0.042821639;dañado;2;23.35;9.2;0.472
+Q;Q28;Quercus suber;0.015284032;sano;3;13.95;7.2;0.472
+Q;Q28;Quercus ilex;0.007775632;dañado;2;9.95;3.7;0.475
+Q;Q28;Quercus ilex;0.012271836;sano;3;12.5;5.3;0.475
+Q;Q28;Quercus suber;0.067655908;sano;3;29.35;9.5;0.472
+Q;Q14;Quercus suber;0.311724268;dañado;2;63;10.7;0.472
+Q;Q14;Pinus pinea;0.229021911;sano;3;54;20;0.508
+Q;Q14;Quercus suber;0.083468905;sano;3;32.6;12.9;0.472
+Q;Q14;Quercus suber;0.073061602;sano;3;30.5;12;0.472
+Q;Q14;Quercus suber;0.147934332;sano;3;43.4;10.8;0.472
+Q;Q14;Quercus suber;0.099538138;sano;3;35.6;10.5;0.472
+Q;Q14;Quercus suber;0.090791951;sano;3;34;6.7;0.472
+Q;Q43;Quercus suber;0.016627061;sano;3;14.55;5.4;0.472
+Q;Q43;Quercus suber;0.006720057;sano;3;9.25;3.7;0.472
+Q;Q43;Quercus suber;0.066736993;dañado;2;29.15;6.7;0.472
+Q;Q43;Quercus suber;0.061795272;dañado;2;28.05;6.5;0.472
+Q;Q43;Quercus suber;0.035132597;dañado;2;21.15;4.8;0.472
