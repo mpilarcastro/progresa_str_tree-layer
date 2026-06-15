@@ -14,6 +14,8 @@
 
 # R packages
 library(dplyr)
+library(tidyr)
+library(readr)
 library(nlme)
 library(emmeans) #para pairwise Tukey comparison
 library(multcomp) #para asignar letras
@@ -47,6 +49,38 @@ str(tree)
 ### run to repeat all analyses considering only tree species = E. globulus
 #tree <- tree %>% filter(sp == "Eucalyptus globulus") 
 #-------------------------------------------------------------------------
+
+#--------------------------------------------------------------------------------------
+#   1b.  CREATES table with sum of BA per species per plot  (suppl.mat.)
+#--------------------------------------------------------------------------------------
+plot_area <- pi * 10^2
+
+# 1. Sumar el área basal por especie en cada inventario (parcela)
+tree_invent <- tree %>%
+  group_by(veg_ty, plot, sp) %>%
+  summarise(
+    ba_ha = sum(ba_tree)/ plot_area * 10000, #m2/ha
+    .groups = "drop"
+  )
+
+# 2. Completar las combinaciones faltantes con cero
+# Usamos nesting(veg_ty, plot) porque los inventarios pertenecen a un tipo de vegetación específico
+
+tree_invent_completo <- tree_invent %>%
+  complete(nesting(veg_ty, plot), sp, fill = list(ba_ha = 0))
+
+# 3. Calcular el promedio por tipo de vegetación y especie
+tree_invent_med <- tree_invent_completo %>%
+  group_by(veg_ty, sp) %>%
+    summarise(
+      ba_ha_mean = mean(ba_ha),
+      ba_se       = sd(ba_ha) / sqrt(n()), # Error estándar de la media
+      .groups = "drop"
+    )
+    
+write_csv(tree_invent_med, "tree_sp x veg_ty.csv")
+
+rm(tree_invent, tree_invent_completo)
 
 #--------------------------------------------------------------------------------------
 #   2.  CREATES df datos_plot with variables calculated at plot level  

@@ -394,7 +394,7 @@ E27;A6;Eucalyptus globulus;0.008251582;Muy dañado;1;10.25;15.3;0.475
 E27;A6;Eucalyptus globulus;0.023100308;Muy dañado;1;17.15;16.5;0.475
 E27;A6;Eucalyptus globulus;0.005607934;Sano;3;8.45;8.5;0.475
 E27;A6;Eucalyptus globulus;0.011404168;Sano;3;12.05;15.9;0.475
-E27;A6;Quercus faginea x canariensis;0.005152993;Sano;3;8.1;8.2;0.483
+E27;A6;Quercus canariensis;0.005152993;Sano;3;8.1;8.2;0.483
 E27;A6;Eucalyptus globulus;0.004596343;Sano;3;7.65;17.8;0.475
 E27;A6;Eucalyptus globulus;0.026158645;Muerto;0;18.25;16;0.475
 E27;A6;Eucalyptus globulus;0.013478206;Sano;3;13.1;22.6;0.475
@@ -402,9 +402,9 @@ E27;A6;Eucalyptus globulus;0.005475988;Dañado;2;8.35;16;0.475
 E27;A6;Eucalyptus globulus;0.014848921;Dañado;2;13.75;21.4;0.475
 E27;A6;Eucalyptus globulus;0.039408105;Dañado;2;22.4;16.9;0.475
 E27;A6;Eucalyptus globulus;0.00801184;Muy dañado;1;10.1;;0.475
-E27;A6;Quercus faginea x canariensis;0.011979079;Sano;3;12.35;6.3;0.483
-E27;A6;Quercus faginea x canariensis;0.019113434;Sano;3;15.6;8.4;0.483
-E27;A6;Quercus faginea x canariensis;0.012370207;Sano;3;12.55;;0.483
+E27;A6;Quercus canariensis;0.011979079;Sano;3;12.35;6.3;0.483
+E27;A6;Quercus canariensis;0.019113434;Sano;3;15.6;8.4;0.483
+E27;A6;Quercus canariensis;0.012370207;Sano;3;12.55;;0.483
 E27;A6;Eucalyptus globulus;0.020867226;Sano;3;16.3;19.5;0.475
 E27;A6;Eucalyptus globulus;0.03300633;Muerto;0;20.5;16.7;0.475
 E27;A6;Eucalyptus globulus;0.033491117;Sano;3;20.65;13.3;0.475
@@ -416,7 +416,7 @@ E27;A6;Eucalyptus globulus;0.007238223;Sano;3;9.6;9.5;0.475
 E27;A6;Eucalyptus globulus;0.016060593;Sano;3;14.3;9.1;0.475
 E27;A6;Eucalyptus globulus;0.006720057;Sano;3;9.25;12.6;0.475
 E27;A6;Eucalyptus globulus;0.024328473;Sano;3;17.6;18;0.475
-E27;A6;PInus pinea;0.010386882;Muerto;0;11.5;2.5;0.508
+E27;A6;Pinus pinea;0.010386882;Muerto;0;11.5;2.5;0.508
 E27;A7;Eucalyptus globulus;0.045050597;Muerto;0;23.95;18.7;0.475
 E27;A7;Eucalyptus globulus;0.015614488;Sano;3;14.1;8.3;0.475
 E27;A7;Eucalyptus globulus;0.0130698;Muerto;0;12.9;1.3;0.475
@@ -439,7 +439,7 @@ E27;A7;Eucalyptus globulus;0.054531916;Muerto;0;26.35;;0.475
 E27;A7;Eucalyptus globulus;0.044301328;Muerto;0;23.75;;0.475
 E27;A7;Eucalyptus globulus;0.03017183;Muerto;0;19.6;22.4;0.475
 E27;A7;Eucalyptus globulus;0.031102526;Muerto;0;19.9;19.1;0.475
-E27;A7;Quercus faginea x canariensis;0.021382447;Sano;3;16.5;5.6;0.483
+E27;A7;Quercus canariensis;0.021382447;Sano;3;16.5;5.6;0.483
 E27;A7;Quercus ilex;0.008824726;Sano;3;10.6;4.3;0.475
 E27;A7;Quercus suber;0.033491117;Sano;3;20.65;10.2;0.472
 E27;A7;Quercus ilex;0.005152993;Sano;3;8.1;5.3;0.475
